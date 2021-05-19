@@ -1,0 +1,8 @@
+settings.properties
+lib/
+bin/
+.classpath
+.project
+*.gif
+*.png
+ordinateur/
